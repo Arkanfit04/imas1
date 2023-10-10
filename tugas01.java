@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class tugas01 {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
     
         int bilangan = scanner.nextInt();
 
